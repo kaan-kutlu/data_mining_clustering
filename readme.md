@@ -17,6 +17,8 @@ The project demonstrates how clustering can be used to uncover hidden patterns i
 
 ---
 
+<img src=./graphics/cluster.png width=60%>
+
 ## 📊 Dataset Information
 
 **Source:** `StudentsPerformance.csv`  
@@ -59,6 +61,8 @@ The dataset is unlabeled, which makes it suitable for clustering tasks rather th
 
 ---
 
+<img src=./graphics/elbow.png width=60%>
+
 ## 📈 Results
 
 ### Cluster Summary
@@ -68,6 +72,8 @@ The dataset is unlabeled, which makes it suitable for clustering tasks rather th
 | 0       | Low      | Low         | Low         | Underperforming     |
 | 1       | Medium   | Medium      | Medium      | Average Achievers   |
 | 2       | High     | High        | High        | High Performers     |
+
+
 
 ### Key Insights
 
@@ -86,6 +92,12 @@ The dataset is unlabeled, which makes it suitable for clustering tasks rather th
 All plots are created using **matplotlib** and **seaborn**.
 
 ---
+
+<img src=./graphics/course.png width=60%>
+<img src=./graphics/education.png width=60%>
+<img src=./graphics/ethnicity.png width=60%>
+<img src=./graphics/gender.png width=60%>
+<img src=./graphics/lunch.png width=60%>
 
 ## 🔧 Technologies Used
 
